@@ -1,3 +1,12 @@
+# ==============================
+# Project bases ignores
+# ==============================
+ocv
+nisse
+*.pyc
+# ==============================
+# Generic Python ignores
+# ==============================
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
